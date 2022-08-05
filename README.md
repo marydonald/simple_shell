@@ -283,8 +283,8 @@ $
 
 ## Authors :black_nib:
 
-* Isaac Baccah <[isaacbaccah](https://github.com/isaacbaccah)>
-* Liliyosa <[liliyosa](https://github.com/liliyosa)>
+* Nriama Chibuzo Marydonald <[marydonald](https://github.com/marydonald)>
+*  
 
 ## License :lock:
 
