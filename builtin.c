@@ -9,7 +9,7 @@ int shellby_help(char **args, char __attribute__((__unused__)) **front);
  *               shellby builtin function
  * @command: The command to match
  *
- * Return: A function pointer to the corresponding builtin.
+ * Return: A function pointer, to the corresponding builtin.
  */
 int (*get_builtin(char *command))(char **args, char **front)
 {
