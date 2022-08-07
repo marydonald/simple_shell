@@ -2,7 +2,7 @@
 #define _SHELL_H_
 
 /*
- * File: shell.h
+ * File: shell.h.
  * Auth: Nriama chibuzo marydonald
  *       (name)
  */
